@@ -57,7 +57,8 @@ pip install -r requirements.txt
 ```
 Run the Jupyter notebook or Python script to train the model, make predictions, and evaluate the model's performance
 
-
+##License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/usamajavaid390/netflix-churn-prediction/blob/main/LICENSE) file for details.
 
 
 
